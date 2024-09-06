@@ -1,0 +1,155 @@
+{
+  "bookmarks": {
+    "GMRS - 01": {
+      "bandwidth": 12500,
+      "frequency": 462562500,
+      "mode": 0
+    },
+    "GMRS - 02": {
+      "bandwidth": 12500,
+      "frequency": 462587500,
+      "mode": 0
+    },
+    "GMRS - 03": {
+      "bandwidth": 12500,
+      "frequency": 462612500,
+      "mode": 0
+    },
+    "GMRS - 04": {
+      "bandwidth": 12500,
+      "frequency": 462637500,
+      "mode": 0
+    },
+    "GMRS - 05": {
+      "bandwidth": 12500,
+      "frequency": 462662500,
+      "mode": 0
+    },
+    "GMRS - 06": {
+      "bandwidth": 12500,
+      "frequency": 462687500,
+      "mode": 0
+    },
+    "GMRS - 07": {
+      "bandwidth": 12500,
+      "frequency": 462712500,
+      "mode": 0
+    },
+    "GMRS - 08": {
+      "bandwidth": 12500,
+      "frequency": 467562500,
+      "mode": 0
+    },
+    "GMRS - 09": {
+      "bandwidth": 12500,
+      "frequency": 467587500,
+      "mode": 0
+    },
+    "GMRS - 10": {
+      "bandwidth": 12500,
+      "frequency": 467612500,
+      "mode": 0
+    },
+    "GMRS - 11": {
+      "bandwidth": 12500,
+      "frequency": 467637500,
+      "mode": 0
+    },
+    "GMRS - 12": {
+      "bandwidth": 12500,
+      "frequency": 467662500,
+      "mode": 0
+    },
+    "GMRS - 13": {
+      "bandwidth": 12500,
+      "frequency": 467687500,
+      "mode": 0
+    },
+    "GMRS - 14": {
+      "bandwidth": 12500,
+      "frequency": 467712500,
+      "mode": 0
+    },
+    "GMRS - 15": {
+      "bandwidth": 12500,
+      "frequency": 462550000,
+      "mode": 0
+    },
+    "GMRS - 16": {
+      "bandwidth": 12500,
+      "frequency": 462575000,
+      "mode": 0
+    },
+    "GMRS - 17": {
+      "bandwidth": 12500,
+      "frequency": 462600000,
+      "mode": 0
+    },
+    "GMRS - 18": {
+      "bandwidth": 12500,
+      "frequency": 462625000,
+      "mode": 0
+    },
+    "GMRS - 19": {
+      "bandwidth": 12500,
+      "frequency": 462650000,
+      "mode": 0
+    },
+    "GMRS - 20": {
+      "bandwidth": 12500,
+      "frequency": 462675000,
+      "mode": 0
+    },
+    "GMRS - 21": {
+      "bandwidth": 12500,
+      "frequency": 462700000,
+      "mode": 0
+    },
+    "GMRS - 22": {
+      "bandwidth": 12500,
+      "frequency": 462725000,
+      "mode": 0
+    },
+    "GMRS - 15R": {
+      "bandwidth": 12500,
+      "frequency": 467550000,
+      "mode": 0
+    },
+    "GMRS - 16R": {
+      "bandwidth": 12500,
+      "frequency": 467575000,
+      "mode": 0
+    },
+    "GMRS - 17R": {
+      "bandwidth": 12500,
+      "frequency": 467600000,
+      "mode": 0
+    },
+    "GMRS - 18R": {
+      "bandwidth": 12500,
+      "frequency": 467625000,
+      "mode": 0
+    },
+    "GMRS - 19R": {
+      "bandwidth": 12500,
+      "frequency": 467650000,
+      "mode": 0
+    },
+    "GMRS - 20R": {
+      "bandwidth": 12500,
+      "frequency": 467675000,
+      "mode": 0
+    },
+    "GMRS - 21R": {
+      "bandwidth": 12500,
+      "frequency": 467700000,
+      "mode": 0
+    },
+    "GMRS - 22R": {
+      "bandwidth": 12500,
+      "frequency": 467725000,
+      "mode": 0
+    }
+}
+}
+}
