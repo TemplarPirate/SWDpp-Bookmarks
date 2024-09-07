@@ -1,0 +1,104 @@
+{
+  "bookmarks": {
+    "Union Pacific Road (160.410 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160410000,
+      "mode": 0
+    },
+    "BNSF Road (160.320 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160320000,
+      "mode": 0
+    },
+    "BNSF Dispatcher (160.695 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160695000,
+      "mode": 0
+    },
+    "BNSF Road (160.515 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160515000,
+      "mode": 0
+    },
+    "BNSF Yard (161.385 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161385000,
+      "mode": 0
+    },
+    "Union Pacific Dispatcher (160.920 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160920000,
+      "mode": 0
+    },
+    "BNSF Dispatcher (161.250 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161250000,
+      "mode": 0
+    },
+    "Union Pacific Road (161.100 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161100000,
+      "mode": 0
+    },
+    "Union Pacific Yard (160.845 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160845000,
+      "mode": 0
+    },
+    "BNSF Maintenance of Way (160.245 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160245000,
+      "mode": 0
+    },
+    "BNSF Maintenance of Way (160.875 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160875000,
+      "mode": 0
+    },
+    "Union Pacific Road (160.800 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160800000,
+      "mode": 0
+    },
+    "BNSF Yard (160.560 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160560000,
+      "mode": 0
+    },
+    "Union Pacific Road (161.070 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161070000,
+      "mode": 0
+    },
+    "BNSF Dispatcher (160.305 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160305000,
+      "mode": 0
+    },
+    "Amtrak Operations (161.190 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161190000,
+      "mode": 0
+    },
+    "General Railroad Operations (161.070 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161070000,
+      "mode": 0
+    },
+    "General Railroad (161.490 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161490000,
+      "mode": 0
+    },
+    "General Railroad Operations (160.680 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 160680000,
+      "mode": 0
+    },
+    "AAR Channel 94 (161.520 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 161520000,
+      "mode": 0
+    }
+  }
+}
