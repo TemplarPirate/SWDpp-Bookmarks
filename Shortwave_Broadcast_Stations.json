@@ -1,0 +1,104 @@
+{
+  "bookmarks": {
+    "BBC World Service (5975 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 5975000,
+      "mode": 0
+    },
+    "Voice of America (9490 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 9490000,
+      "mode": 0
+    },
+    "China Radio International (6195 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 6195000,
+      "mode": 0
+    },
+    "Radio Havana Cuba (6000 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 6000000,
+      "mode": 0
+    },
+    "Radio Romania International (7285 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 7285000,
+      "mode": 0
+    },
+    "Deutsche Welle (9780 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 9780000,
+      "mode": 0
+    },
+    "All India Radio (7290 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 7290000,
+      "mode": 0
+    },
+    "Radio Exterior de España (9690 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 9690000,
+      "mode": 0
+    },
+    "Radio France Internationale": {
+      "bandwidth": 10000,
+      "frequency": 7195000,
+      "mode": 0
+    },
+    "KBS World Radio": {
+      "bandwidth": 10000,
+      "frequency": 9640000,
+      "mode": 0
+    },
+    "Radio Japan NHK World": {
+      "bandwidth": 10000,
+      "frequency": 9570000,
+      "mode": 0
+    },
+    "Radio New Zealand International (7350 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 7350000,
+      "mode": 0
+    },
+    "The Overcomer Ministry (5910 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 5910000,
+      "mode": 0
+    },
+    "Adventist World Radio (11800 kHz)": {
+      "bandwidth": 10000,
+      "frequency": 11800000,
+      "mode": 0
+    },
+    "WRMI Radio Miami International": {
+      "bandwidth": 10000,
+      "frequency": 9955000,
+      "mode": 0
+    },
+    "The Mighty KBC": {
+      "bandwidth": 10000,
+      "frequency": 5955000,
+      "mode": 0
+    },
+    "Radio Free Asia": {
+      "bandwidth": 10000,
+      "frequency": 9915000,
+      "mode": 0
+    },
+    "Radio Taiwan International": {
+      "bandwidth": 10000,
+      "frequency": 9405000,
+      "mode": 0
+    },
+    "Vatican Radio": {
+      "bandwidth": 10000,
+      "frequency": 7250000,
+      "mode": 0
+    },
+    "Radio Thailand": {
+      "bandwidth": 10000,
+      "frequency": 9390000,
+      "mode": 0
+    }
+  }
+}
