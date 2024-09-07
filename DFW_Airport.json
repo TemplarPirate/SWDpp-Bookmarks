@@ -1,0 +1,89 @@
+{
+  "bookmarks": {
+    "DFW Tower (North) - 124.150 MHz": {
+      "bandwidth": 12500,
+      "frequency": 124150000,
+      "mode": 0
+    },
+    "DFW Tower (South) - 126.550 MHz": {
+      "bandwidth": 12500,
+      "frequency": 126550000,
+      "mode": 0
+    },
+    "DFW Ground (North) - 121.650 MHz": {
+      "bandwidth": 12500,
+      "frequency": 121650000,
+      "mode": 0
+    },
+    "DFW Ground (South) - 121.850 MHz": {
+      "bandwidth": 12500,
+      "frequency": 121850000,
+      "mode": 0
+    },
+    "DFW Clearance Delivery - 128.250 MHz": {
+      "bandwidth": 12500,
+      "frequency": 128250000,
+      "mode": 0
+    },
+    "DFW Approach (East) - 125.200 MHz": {
+      "bandwidth": 12500,
+      "frequency": 125200000,
+      "mode": 0
+    },
+    "DFW Approach (West) - 124.150 MHz": {
+      "bandwidth": 12500,
+      "frequency": 124150000,
+      "mode": 0
+    },
+    "DFW Departure (East) - 125.025 MHz": {
+      "bandwidth": 12500,
+      "frequency": 125025000,
+      "mode": 0
+    },
+    "DFW Departure (West) - 118.425 MHz": {
+      "bandwidth": 12500,
+      "frequency": 118425000,
+      "mode": 0
+    },
+    "American Airlines Operations - 129.625 MHz": {
+      "bandwidth": 12500,
+      "frequency": 129625000,
+      "mode": 0
+    },
+    "Delta Airlines Operations - 131.575 MHz": {
+      "bandwidth": 12500,
+      "frequency": 131575000,
+      "mode": 0
+    },
+    "United Airlines Operations - 131.300 MHz": {
+      "bandwidth": 12500,
+      "frequency": 131300000,
+      "mode": 0
+    },
+    "Southwest Airlines Operations - 130.675 MHz": {
+      "bandwidth": 12500,
+      "frequency": 130675000,
+      "mode": 0
+    },
+    "DFW ATIS - 135.875 MHz": {
+      "bandwidth": 12500,
+      "frequency": 135875000,
+      "mode": 0
+    },
+    "DFW Aircraft Rescue & Firefighting - 462.975 MHz": {
+      "bandwidth": 12500,
+      "frequency": 462975000,
+      "mode": 0
+    },
+    "DFW Ground Vehicle Operations - 122.950 MHz": {
+      "bandwidth": 12500,
+      "frequency": 122950000,
+      "mode": 0
+    },
+    "DFW Terminal Control (TRACON) - 124.300 MHz": {
+      "bandwidth": 12500,
+      "frequency": 124300000,
+      "mode": 0
+    }
+  }
+}

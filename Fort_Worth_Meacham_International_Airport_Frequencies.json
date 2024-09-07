@@ -1,0 +1,54 @@
+{
+  "bookmarks": {
+    "Meacham Tower (118.300 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 118300000,
+      "mode": 0
+    },
+    "Meacham Ground (121.700 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 121700000,
+      "mode": 0
+    },
+    "Meacham Clearance Delivery (121.700 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 121700000,
+      "mode": 0
+    },
+    "DFW Approach (Meacham) - 125.020 MHz": {
+      "bandwidth": 12500,
+      "frequency": 125020000,
+      "mode": 0
+    },
+    "DFW Departure (Meacham) - 118.100 MHz": {
+      "bandwidth": 12500,
+      "frequency": 118100000,
+      "mode": 0
+    },
+    "Meacham ATIS (126.850 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 126850000,
+      "mode": 0
+    },
+    "Fort Worth Center (127.500 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 127500000,
+      "mode": 0
+    },
+    "Meacham UNICOM (122.950 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 122950000,
+      "mode": 0
+    },
+    "DFW Aircraft Rescue & Firefighting (462.950 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 462950000,
+      "mode": 0
+    },
+    "DFW Ground Vehicle Operations (122.950 MHz)": {
+      "bandwidth": 12500,
+      "frequency": 122950000,
+      "mode": 0
+    }
+  }
+}
