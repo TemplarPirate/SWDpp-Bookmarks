@@ -1,0 +1,179 @@
+{
+  "bookmarks": {
+    "ISS (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145800000,
+      "mode": 0
+    },
+    "ISS (FM Packet APRS)": {
+      "bandwidth": 12500,
+      "frequency": 437800000,
+      "mode": 0
+    },
+    "NOAA Weather Satellite (APT 137.100 MHz)": {
+      "bandwidth": 50000,
+      "frequency": 137100000,
+      "mode": 0
+    },
+    "NOAA Weather Satellite (APT 137.620 MHz)": {
+      "bandwidth": 50000,
+      "frequency": 137620000,
+      "mode": 0
+    },
+    "METEOR-M2 (LRPT Downlink)": {
+      "bandwidth": 80000,
+      "frequency": 137900000,
+      "mode": 0
+    },
+    "AO-91 (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145960000,
+      "mode": 0
+    },
+    "AO-91 (FM Voice Uplink)": {
+      "bandwidth": 12500,
+      "frequency": 435250000,
+      "mode": 0
+    },
+    "AO-92 (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145880000,
+      "mode": 0
+    },
+    "AO-92 (FM Voice Uplink)": {
+      "bandwidth": 12500,
+      "frequency": 435350000,
+      "mode": 0
+    },
+    "SO-50 (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145850000,
+      "mode": 0
+    },
+    "SO-50 (FM Voice Uplink)": {
+      "bandwidth": 12500,
+      "frequency": 436795000,
+      "mode": 0
+    },
+    "OSCAR QO-100 (SSB Voice Downlink)": {
+      "bandwidth": 3000,
+      "frequency": 10489860000,
+      "mode": 1
+    },
+    "OSCAR QO-100 (SSB Voice Uplink)": {
+      "bandwidth": 3000,
+      "frequency": 2400050000,
+      "mode": 1
+    },
+    "FUNcube-1 AO-73 (Telemetry Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145935000,
+      "mode": 0
+    },
+    "Inmarsat (L-Band Downlink)": {
+      "bandwidth": 50000,
+      "frequency": 1541000000,
+      "mode": 0
+    },
+    "Inmarsat (L-Band Uplink)": {
+      "bandwidth": 50000,
+      "frequency": 1626000000,
+      "mode": 0
+    },
+    "GPS L1 (Nav Signal)": {
+      "bandwidth": 50000,
+      "frequency": 1575420000,
+      "mode": 0
+    },
+    "GPS L2 (Nav Signal)": {
+      "bandwidth": 50000,
+      "frequency": 1227600000,
+      "mode": 0
+    },
+    "Iridium Satellites (Uplink/Downlink)": {
+      "bandwidth": 50000,
+      "frequency": 1625000000,
+      "mode": 0
+    },
+    "TDRSS (S-Band Downlink)": {
+      "bandwidth": 50000,
+      "frequency": 2250000000,
+      "mode": 0
+    },
+    "TDRSS (Ku-Band Downlink)": {
+      "bandwidth": 50000,
+      "frequency": 15003000000,
+      "mode": 0
+    },
+    "GOES Satellite (HRIT/EMWIN Downlink)": {
+      "bandwidth": 50000,
+      "frequency": 1690000000,
+      "mode": 0
+    },
+    "NASA Deep Space Network (S-Band)": {
+      "bandwidth": 100000,
+      "frequency": 2290000000,
+      "mode": 0
+    },
+    "NASA Deep Space Network (X-Band)": {
+      "bandwidth": 100000,
+      "frequency": 8450000000,
+      "mode": 0
+    },
+    "NASA Deep Space Network (Ka-Band)": {
+      "bandwidth": 100000,
+      "frequency": 32000000000,
+      "mode": 0
+    },
+    "CAS-4A (FM Voice Uplink)": {
+      "bandwidth": 12500,
+      "frequency": 435210000,
+      "mode": 0
+    },
+    "CAS-4A (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145870000,
+      "mode": 0
+    },
+    "CAS-4B (FM Voice Uplink)": {
+      "bandwidth": 12500,
+      "frequency": 435230000,
+      "mode": 0
+    },
+    "CAS-4B (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145890000,
+      "mode": 0
+    },
+    "XW-2A (FM Voice Uplink)": {
+      "bandwidth": 12500,
+      "frequency": 435030000,
+      "mode": 0
+    },
+    "XW-2A (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145660000,
+      "mode": 0
+    },
+    "XW-2B (FM Voice Uplink)": {
+      "bandwidth": 12500,
+      "frequency": 435110000,
+      "mode": 0
+    },
+    "XW-2B (FM Voice Downlink)": {
+      "bandwidth": 12500,
+      "frequency": 145735000,
+      "mode": 0
+    },
+    "FO-29 (SSB Uplink)": {
+      "bandwidth": 3000,
+      "frequency": 435900000,
+      "mode": 1
+    },
+    "FO-29 (SSB Downlink)": {
+      "bandwidth": 3000,
+      "frequency": 145950000,
+      "mode": 1
+    }
+  }
+}
