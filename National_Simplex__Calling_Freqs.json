@@ -1,0 +1,89 @@
+{
+  "bookmarks": {
+    "2m Simplex Calling": {
+      "bandwidth": 12500,
+      "frequency": 146520000,
+      "mode": 0
+    },
+    "1.25m Simplex Calling": {
+      "bandwidth": 12500,
+      "frequency": 223500000,
+      "mode": 0
+    },
+    "70cm Simplex Calling": {
+      "bandwidth": 12500,
+      "frequency": 446000000,
+      "mode": 0
+    },
+    "33cm Simplex Calling": {
+      "bandwidth": 12500,
+      "frequency": 927500000,
+      "mode": 0
+    },
+    "23cm Simplex Calling": {
+      "bandwidth": 12500,
+      "frequency": 129450000,
+      "mode": 0
+    },
+    "6m Simplex Calling": {
+      "bandwidth": 25000,
+      "frequency": 50125000,
+      "mode": 0
+    },
+    "10m Simplex Calling": {
+      "bandwidth": 25000,
+      "frequency": 29600000,
+      "mode": 0
+    },
+    "80m SSB Calling": {
+      "bandwidth": 3000,
+      "frequency": 3885000,
+      "mode": 1
+    },
+    "80m CW Calling": {
+      "bandwidth": 500,
+      "frequency": 3550000,
+      "mode": 2
+    },
+    "40m SSB Calling": {
+      "bandwidth": 3000,
+      "frequency": 7188000,
+      "mode": 1
+    },
+    "40m CW Calling": {
+      "bandwidth": 500,
+      "frequency": 7040000,
+      "mode": 2
+    },
+    "20m SSB Calling": {
+      "bandwidth": 3000,
+      "frequency": 14230000,
+      "mode": 1
+    },
+    "20m CW Calling": {
+      "bandwidth": 500,
+      "frequency": 14050000,
+      "mode": 2
+    },
+    "17m SSB Calling": {
+      "bandwidth": 3000,
+      "frequency": 18130000,
+      "mode": 1
+    },
+    "17m CW Calling": {
+      "bandwidth": 500,
+      "frequency": 18075000,
+      "mode": 2
+    },
+    "15m SSB Calling": {
+      "bandwidth": 3000,
+      "frequency": 21330000,
+      "mode": 1
+    },
+    "15m CW Calling": {
+      "bandwidth": 500,
+      "frequency": 21050000,
+      "mode": 2
+    }
+  }
+}
