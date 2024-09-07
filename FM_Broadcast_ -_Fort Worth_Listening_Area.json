@@ -1,0 +1,104 @@
+{
+  "bookmarks": {
+    "FM Broadcast KERA": {
+      "bandwidth": 200000,
+      "frequency": 90100000,
+      "mode": 6
+    },
+    "FM Broadcast KCBI": {
+      "bandwidth": 200000,
+      "frequency": 90900000,
+      "mode": 6
+    },
+    "FM Broadcast KLTY": {
+      "bandwidth": 200000,
+      "frequency": 94900000,
+      "mode": 6
+    },
+    "FM Broadcast KHKS": {
+      "bandwidth": 200000,
+      "frequency": 106100000,
+      "mode": 6
+    },
+    "FM Broadcast KKDA": {
+      "bandwidth": 200000,
+      "frequency": 104500000,
+      "mode": 6
+    },
+    "FM Broadcast KDGE": {
+      "bandwidth": 200000,
+      "frequency": 102100000,
+      "mode": 6
+    },
+    "FM Broadcast KJKK": {
+      "bandwidth": 200000,
+      "frequency": 100300000,
+      "mode": 6
+    },
+    "FM Broadcast KLNO": {
+      "bandwidth": 200000,
+      "frequency": 94100000,
+      "mode": 6
+    },
+    "FM Broadcast KZPS": {
+      "bandwidth": 200000,
+      "frequency": 92500000,
+      "mode": 6
+    },
+    "FM Broadcast KESS": {
+      "bandwidth": 200000,
+      "frequency": 107100000,
+      "mode": 6
+    },
+    "FM Broadcast KPLX": {
+      "bandwidth": 200000,
+      "frequency": 99500000,
+      "mode": 6
+    },
+    "FM Broadcast KXT": {
+      "bandwidth": 200000,
+      "frequency": 91700000,
+      "mode": 6
+    },
+    "FM Broadcast KWRD": {
+      "bandwidth": 200000,
+      "frequency": 100700000,
+      "mode": 6
+    },
+    "FM Broadcast KSCS": {
+      "bandwidth": 200000,
+      "frequency": 96300000,
+      "mode": 6
+    },
+    "FM Broadcast KLUV": {
+      "bandwidth": 200000,
+      "frequency": 98700000,
+      "mode": 6
+    },
+    "FM Broadcast KVIL": {
+      "bandwidth": 200000,
+      "frequency": 103700000,
+      "mode": 6
+    },
+    "FM Broadcast KRLD": {
+      "bandwidth": 200000,
+      "frequency": 105300000,
+      "mode": 6
+    },
+    "FM Broadcast KZPS": {
+      "bandwidth": 200000,
+      "frequency": 92500000,
+      "mode": 6
+    },
+    "FM Broadcast WBAP": {
+      "bandwidth": 200000,
+      "frequency": 96700000,
+      "mode": 6
+    },
+    "FM Broadcast WRR": {
+      "bandwidth": 200000,
+      "frequency": 101100000,
+      "mode": 6
+    }
+  }
+}
